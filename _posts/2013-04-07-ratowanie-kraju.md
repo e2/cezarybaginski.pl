@@ -35,9 +35,9 @@ Za to pretensje o sytuacje w kraju mam tylko do siebie. Nie jestem historykiem, 
 
 Czy z niewiedzy czy zaniedbania - jako obywatel jestem współodpowiedzialny za los innych obywateli - i dlatego jestem wdzięczny tym, co dzielą się tą odpowiedzialnością i wykonują robotę za mnie (a ja mogę koncentrować się na innej specjalizacji). W każdym zawodzie jest ciężko być wybitnym - i nie zawsze wychodzi. A jeśli już, to po wielu latach.
 
-W rządzie są ludzie złośliwi i złodzieje - a na pewno też są ludzie życzliwi i chętni do pomocy. Zatem zauważanie tylko tych pierwszych to raczej braku obiektywizmu i poglądach oderwanych od rzeczywistości.
+W rządzie są ludzie złośliwi i złodzieje - a na pewno też są ludzie życzliwi i chętni do pomocy. Zatem zauważanie tylko tych pierwszych to raczej braku obiektywizmu - poglądy oderwane od rzeczywistości.
 
-Rozumiem też, że zawód polityka to jeden z najbardziej niewdzięcznych zawodów. Bardziej niż adwokat czy policjant. Powszechnie powodów do dumy mają niewiele - a każda nowa aktywna polityczna osoba startuje z pozycji przegranej.
+Rozumiem też, że zawód polityka to jeden z najbardziej niewdzięcznych zawodów. Bardziej niż adwokat czy policjant. Powszechnie powodów do dumy mają niewiele - a każda nowa aktywna politycznie osoba startuje z pozycji przegranej.
 
 Oczywiście, nie znaczy to, że powinni móc bezkarnie rozwalać gospodarkę i pogarszać warunki życia. Niemniej ... kim jestem, aby rzucać takie oskarżenia bezpodstawnie? A jeśli miałbym takie podstawy i dowody - to moim obywatelskim obowiązkiem byłoby dochodzenie sprawiedliwości drogą sądową, zgodną z prawem.
 
@@ -103,7 +103,7 @@ Niektórzy by się pośpieszyli z hasłami takimi jak "korupcja!", "wysokie poda
 
 Oczywiście żadne z nich ani nie określa problemu, ani nie uzasadnia, że jest to największy problem.
 
-Sam przyznam, że nie znam największego problemu w naszych obecnych realiach. Dlatego jedyny na jaki mogę szczerze narzekać, to na negatywne postawy innych. Ale to przecież też nie pomaga - choć przyznam, że wolę polemikę niż, aby ludzie żalili się do mnie albo ściany gdy jestem w pobliżu.
+Sam przyznam, że nie znam największego problemu w naszych obecnych realiach. Dlatego jedyny na jaki mogę szczerze narzekać, to na negatywne postawy innych. Ale to przecież też nie pomaga - choć przyznam, że wolę polemikę niż, aby ludzie żalili się w mojej obecności. A tak padają oceny działań i wypowiedzi polityków ... o których pierwszy raz słyszę, bo się nie interesuje. Potem jestem "wrogiem" bo "ich bronię" (tak jak broniłbym każdego przed bezpodstawnymi oszczerstwami) lub "nieodpowiedzialny" bo się "nie interesuję". Pomijam, że nawet czytanie biografii polityków ma się zupełnie niejak to przyszłych realiów gospodarczych.
 
 
 ## Więc co dalej?
@@ -122,18 +122,22 @@ Najpierw - po inżyniersku zdefiniować problem. Albo chociaż podejście dąż�
 
 I tutaj pierwszy dylemat: można szukać i poprawiać definicję problemu (np. poprzez algorytmy genetyczne, wybierając dowolny duży problem, następnie zastępując coraz lepiej zdefiniowanymi, iterując po powiązaniach, przykładowo: problem ZUS - wymienić na problem do kogo trafiają pieniądze  - a potem jak są wydawane - a potem czy to problem nadmiernych regulacji czy wyborów konsumentów czy faktycznej korupcji - i potem od czego ten wybór zależy - czy ten wybór kształtują media czy szkoły, itd.) ... lub ... w izolacji testować losowe działania i monitorować wpływ - i w ten sposób na bieżąco poprawiać empirycznie sytuację, bez marnowanie czasu na sprecyzowanie problemu, którego może nawet nie da się sprecyzować (zbyt wiele cyklicznych zależności, itd).
 
-Trzecie podejście to mogłoby być zaczynanie od ograniczanie problemów i działań tylko do tych, której najlepiej wykorzystują obecne możliwości i świadomość obywateli. Jaki obywatele mogą mieć wpływ i w jakim czasie? Nie znam się. Islandia to odosobniony przykład, a nie szablon typu "kopiuj i wklej".
+Trzecie podejście to mogłoby być zaczynanie od ograniczania problemów i działań tylko do tych, której najlepiej wykorzystują obecne możliwości i świadomość obywateli. Jaki obywatele mogą mieć wpływ i w jakim czasie? Nie znam się. Islandia to odosobniony przykład, a nie szablon typu "kopiuj i wklej".
 
 
 ## Przykłady
 
-"Problem ZUS" nie jest definicją problemu. Zarówno ZUS jak i państwo tylko pośredniczą w transferze pieniędzy z jednego miejsca na drugie - a mi osobiście ciężko pojąć i poskładać dane, aby chociaż to przedstawić, a co dopiero przeanalizować.
+Osobiście na początek wybrałem ZUS. Nie jestem przekonany, że to dobry temat na początek. Sugerowałem się olbrzymim budżetem, kosztem bez możliwego zwrotu z inwestycji (chyba, że to by jakoś ułatwiało emerytom wracać do pracy), strukturą finansową poza budżetem, deficytem ZUS, dopłaty z budżetu, historią nadużyć i korupcji ("pałace ZUS", itd.), i masą negatywnego krytycyzmu świadczeń z punktu widzenia ekonomów.
+
+Jednak "Problem ZUS" nie jest definicją problemu. Zarówno ZUS jak i państwo tylko pośredniczą w transferze pieniędzy z jednego miejsca na drugie - a mi osobiście ciężko pojąć i poskładać dane, aby chociaż to przedstawić, a co dopiero przeanalizować.
 
 Jeśli problem dotyczy pieniędzy - to nasuwa się śledzenie ich przepływu. Nawet jeśli większość pieniędzy na ZUS trafia ostatecznie do podatników (lub banków - nie znam proporcji), to nie jest to złe, pod warunkiem, że podatnicy dokonują dobrych wyborów - jako konsumenci lub inwestorzy.
 
-Chyba, że np. korzystają z wypłat prawie w całości płacąc raty zaciągniętych kredytów.
+Chyba, że np. korzystają z wypłat prawie w całości płacąc raty zaciągniętych kredytów. Jeśli tak, to może warto prześledzić jak ludzie mający świadczenia lub wypłaty w ramach ZUS WYDAJĄ te pieniądze? Czy te wydatki to dobre inwestycje w Polskę? Bo wtedy to przestałby być problem ZUS.
 
 No i nie potrafię przewidzieć co będzie za rok - czy ZUS rozleci się (i może nawet to wyjdzie na dobre o ile to nie zostawi emerytów/rencistów na lodzie), czy rząd dostanie kolejne pożyczki czy może Polska załata to inflacją pod groźbą kar od Unii, itd.
+
+
 
 ## Problem ze zbieraniem danych i dowodów
 
